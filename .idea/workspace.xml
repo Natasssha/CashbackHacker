@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b656045-61af-4bc8-9435-726143bdec42" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="9b656045-61af-4bc8-9435-726143bdec42" name="Changes" comment="testng">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/service/CashbackHackService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/service/CashbackHackService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +38,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="testng" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,8 +60,8 @@
     "last_directory_selection": "C:/Users/Наталья/IdeaProjects/CashbackHacker/src/test/java"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.CashbackHackServiceTest.shouldRemain400">
-    <configuration name="CashbackHackServiceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.CashbackHackServiceTest.shouldRemain700">
+    <configuration name="CashbackHackServiceTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -133,7 +130,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="CashbackHackServiceTest.shouldRemain400" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="CashbackHackServiceTest.shouldRemain400 (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -181,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.CashbackHackServiceTest.shouldRemain400" />
         <item itemvalue="Gradle.CashbackHackServiceTest.shouldRemain700" />
+        <item itemvalue="Gradle.CashbackHackServiceTest.shouldRemain400 (1)" />
+        <item itemvalue="Gradle.CashbackHackServiceTest (1)" />
         <item itemvalue="Gradle.CashbackHackServiceTest.shouldRemain" />
         <item itemvalue="Gradle.CashbackHackServiceTest.shouldRemain0" />
-        <item itemvalue="Gradle.CashbackHackServiceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -198,6 +195,14 @@
       <option name="presentableId" value="Default" />
       <updated>1658862932029</updated>
     </task>
+    <task id="LOCAL-00001" summary="testng">
+      <created>1658865027846</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658865027847</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,5 +215,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="testng" />
+    <option name="LAST_COMMIT_MESSAGE" value="testng" />
   </component>
 </project>
